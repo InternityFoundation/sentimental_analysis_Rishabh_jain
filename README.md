@@ -8,5 +8,6 @@ setnimental analysis involves finding access token keys from twitter developer w
 https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25
 
 Output 
-Shoing negative,positive and neutra tweets of the particular day.
-.
+Showing negative,positive and neutra tweets of the particular day.
+
+![](output.png)
